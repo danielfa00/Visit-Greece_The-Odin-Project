@@ -75,7 +75,7 @@ body {
     padding-right: 25px;
     padding-left: 25px;
     text-align: center;
-    border-radius: 15%;
+    border-radius: 15px;
 }
    
 .button a {
@@ -110,7 +110,7 @@ body {
 
 .info p {
     width: 250px;
-    text-align: center;
+    text-align: left;
     font-size: 18px;
     color: #9c9d9f;
 }
@@ -151,7 +151,15 @@ body {
     display: flex;
     color: #F9FAF8;
     justify-content: space-around;
-    border-radius:  25px;
+    border-radius:  15px;
+}
+
+.call h1 {
+    margin-bottom: 0px;
+}
+
+.call p {
+    margin-top: 0px;
 }
 
 .call .button {
