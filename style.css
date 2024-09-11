@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto";
+    margin: 0px;
 }
 
 
@@ -165,6 +166,11 @@ body {
     font-weight: bold;
     border-radius: 15px;
     align-self: center;
-    
+}
 
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 35px;
 }
